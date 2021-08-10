@@ -1,0 +1,13 @@
+Admin id and password:
+id:admin
+password:ptcl
+
+Students roll no. email id and passwords:
+9001 9001@schoolsystem.edu.pk  9001$69
+3002 3002@schoolsystem.edu.pk  3002$69
+7003 7003@schoolsystem.edu.pk  7003$69
+
+Teacher details:
+hamza.j@gmail.com         hamza123
+usman.ghous@email.com     usman123
+mughees.ismail@email.com  mughees123

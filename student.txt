@@ -1,0 +1,4 @@
+9001 Hammad Shahid 9 yes Razabad 9001@schoolsystem.edu.pk 03027500394 Shahid Gold_smith 03000003603 male 13 6 2020
+3002 Ahnuf Anis 3 yes chakwal 3002@schoolsystem.edu.pk 333333333 Anis Enginner 0300223311 male 13 12 2020
+7003 Hassan Munir 7 yes DHA 7003@schoolsystem.edu.pk 123456789 Munir Army 030022556789 male 13 12 2020
+5004 Hamza jamil 5 no 402-A_chenabGardens 5004@schoolsystem.edu.pk 0306600 Jamil Teacher 0322 male 12 10 2001

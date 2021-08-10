@@ -1,0 +1,6 @@
+English SS120 English 3
+Mathematics MT110 Maths 9
+Physics PH788 science 10
+Biology BC420 science 9
+Urdu UU820 urdu 5
+
